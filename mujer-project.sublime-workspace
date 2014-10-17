@@ -4,12 +4,104 @@
 		"selected_items":
 		[
 			[
+				"back",
+				"background-size"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
 				"font",
 				"font-weight"
 			],
 			[
-				"back",
-				"background-repeat"
+				"fon",
+				"font-family"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"tr",
+				"treatments"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"gr",
+				"green-nav"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"center",
+				"centered"
+			],
+			[
+				"ba",
+				"background-size"
 			],
 			[
 				"no",
@@ -20,14 +112,6 @@
 				"bolder"
 			],
 			[
-				"tex",
-				"text-transform"
-			],
-			[
-				"background",
-				"background"
-			],
-			[
 				"bor",
 				"border-top"
 			],
@@ -36,40 +120,16 @@
 				"sugerences"
 			],
 			[
-				"margin",
-				"margin-bottom"
-			],
-			[
-				"padd",
-				"padding-right"
-			],
-			[
-				"border",
-				"border-top"
-			],
-			[
 				"fig",
 				"figcaption"
-			],
-			[
-				"fon",
-				"font-weight"
 			],
 			[
 				"slide",
 				"slide-control"
 			],
 			[
-				"padding",
-				"padding-left"
-			],
-			[
 				"pad",
 				"padding-top"
-			],
-			[
-				"ba",
-				"background-position"
 			],
 			[
 				"fo",
@@ -100,10 +160,6 @@
 				"open_sansregular"
 			],
 			[
-				"h",
-				"h4	Tag"
-			],
-			[
 				"backgrou",
 				"background-image"
 			],
@@ -126,10 +182,6 @@
 			[
 				"margi",
 				"margin-left"
-			],
-			[
-				"backgr",
-				"background-image"
 			],
 			[
 				"te",
@@ -156,20 +208,8 @@
 				"margin-top"
 			],
 			[
-				"max",
-				"max-height"
-			],
-			[
-				"bac",
-				"background-size"
-			],
-			[
 				"di",
 				"display"
-			],
-			[
-				"marg",
-				"margin-left"
 			],
 			[
 				"d",
@@ -178,10 +218,6 @@
 			[
 				"bo",
 				"bottom"
-			],
-			[
-				"borde",
-				"border-bottom"
 			],
 			[
 				"o",
@@ -200,14 +236,6 @@
 				"input	Tag"
 			],
 			[
-				"tr",
-				"transparent"
-			],
-			[
-				"text",
-				"text-align"
-			],
-			[
 				"ma",
 				"margin"
 			],
@@ -222,20 +250,16 @@
 			[
 				"wid",
 				"width"
-			],
-			[
-				"backgroun",
-				"background-color"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "/Users/upmedia/Dropbox/Super Team/@Descubre tus Piernas/02-Front/alodoctor.html",
 			"settings":
 			{
-				"buffer_size": 10565,
+				"buffer_size": 7170,
 				"line_ending": "Unix"
 			}
 		},
@@ -243,15 +267,15 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 26314,
+				"buffer_size": 34449,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "varices.html",
+			"file": "/Users/upmedia/Dropbox/Super Team/@Descubre tus Piernas/02-Front/varices.html",
 			"settings":
 			{
-				"buffer_size": 9781,
+				"buffer_size": 12395,
 				"line_ending": "Unix"
 			}
 		}
@@ -280,6 +304,9 @@
 	},
 	"file_history":
 	[
+		"/Users/upmedia/GitHub/banmedica-descubre/beneficiadas.html",
+		"/Users/upmedia/Dropbox/Super Team/@Descubre tus Piernas/02-Front/index.html",
+		"/Users/upmedia/GitHub/banmedica-descubre/index.html",
 		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/formulario/php/enviar-landing.php",
 		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/formulario/php/enviar_admision.php",
 		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/style.css",
@@ -404,10 +431,7 @@
 		"/Users/upmedia/Dropbox/UPMEDIA PRACTICA/Lugares de ciencia/front_lugares/tooltip.html",
 		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/archive 2.php",
 		"/Users/upmedia/Dropbox/UPMEDIA PRACTICA/front_regcom/publicaciones-single.html",
-		"/Users/upmedia/Dropbox/UPMEDIA PRACTICA/front_regcom/proyectos.html",
-		"/Users/upmedia/Dropbox/UPMEDIA PRACTICA/front_regcom/actividades-single.html",
-		"/Users/upmedia/Dropbox/UPMEDIA PRACTICA/front_regcom/css/estilo.css",
-		"/Users/upmedia/Dropbox/UPMEDIA PRACTICA/front_regcom/quienes-somos-single.html"
+		"/Users/upmedia/Dropbox/UPMEDIA PRACTICA/front_regcom/proyectos.html"
 	],
 	"find":
 	{
@@ -425,6 +449,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".about",
 			".col-md-esp",
 			".row",
 			"header",
@@ -551,8 +576,7 @@
 			".mainNav ul",
 			".mainNav ul li a",
 			"ventajaVertical",
-			".boxSoftware",
-			"        <?"
+			".boxSoftware"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -570,23 +594,23 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "/Users/upmedia/Dropbox/Super Team/@Descubre tus Piernas/02-Front/alodoctor.html",
 					"settings":
 					{
-						"buffer_size": 10565,
+						"buffer_size": 7170,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								480,
-								480
+								0,
+								16
 							]
 						],
 						"settings":
@@ -606,15 +630,15 @@
 					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 26314,
+						"buffer_size": 34449,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								21891,
-								21891
+								32537,
+								32537
 							]
 						],
 						"settings":
@@ -625,36 +649,35 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 19613.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "varices.html",
+					"file": "/Users/upmedia/Dropbox/Super Team/@Descubre tus Piernas/02-Front/varices.html",
 					"settings":
 					{
-						"buffer_size": 9781,
+						"buffer_size": 12395,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3223,
-								3223
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 791.0,
+						"translation.y": 1973.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -668,7 +691,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{

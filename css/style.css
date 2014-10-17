@@ -1159,9 +1159,11 @@ span.reference-case{text-align: center; display: block; font-family: helvetica, 
 .pdlr0{padding-left: 0; padding-right: 0;}
 .pdlr05{padding-left: 0.5%; padding-right: 0.5%;}
 
+
 /* Tonos */
 .grey{background-color: #f7f7f7;}
 .white{background-color: #ffffff;}
+
 
 /* ESTILOS PARA LAS VARICES */
 /* Background y entrada */
@@ -1218,6 +1220,25 @@ border: 2px solid #adadad;-webkit-transition: 0.5s ease; -moz-transition: 0.5s e
 .suscribe h3{text-align:center; font-family: helvetica, arial, sans-serif; font-weight: lighter; font-size: 36px; display: block; color: #ffffff; background-size: 100%;}
 .suscribe a{border: 2px solid #ffffff; text-align: center; font-family: helvetica, arial, sans-serif; font-weight: bolder; font-size: 14px; display: table; margin: 0 auto 40px; color:#ffffff; text-decoration: none; padding: 1.5% 5%; text-transform: uppercase; -webkit-transition: 0.5s ease; -moz-transition: 0.5s ease; -ms-transition: 0.5s ease; transition: 0.5s ease;}
 .suscribe a:hover{-webkit-transition: 0.5s ease; -moz-transition: 0.5s ease; -ms-transition: 0.5s ease; transition: 0.5s ease; border-radius: 10px;}
+
+
+/* ESTILOS RELACIONADOS A LAS BENEFICIADAS */
+.beneficiadas{background-image: url("../images/examples/bg-beneficiadas-single.jpg"); width: 100%; display: block; z-index: 0; background-size: 200vh !important; background-position: 50% 0%; background-repeat: no-repeat; height: 540px;}
+
+/* ¿Tienes Consultas? */
+.medic-ask h2{text-align: center;font-family: Helvetica, Arial, sans-serif; font-weight: bolder ;font-size: 40px ; text-align: center; color:#8d8d8d; line-height: 140%; margin-bottom:0;}
+.medic-ask p{text-align: center; font-family: helvetica, arial, sans-serif; font-weight: lighter; font-size:20px; padding:10px 23% 0; color:#6c6c6c; line-height: 140%;}
+
+/* Consultas al Doctor */
+.spokesman{background-image: url("../images/examples/bg-doctor.jpg");  background-repeat: no-repeat; background-size: 100%; }
+.spokesman h3{text-align:left; font-family:helvetica, arial, sans-serif; font-size: 40px; color:#ffffff; line-height:140%; font-weight:bold; margin-bottom:0; margin-top: 80px;}
+.spokesman span{font-size: 11px; color:#ffffff; font-weight: bolder; text-align: left; text-transform: uppercase; font-family: helvetica, arial, sans-serif;}
+.spokesman p{font-size: 18px;font-family: helvetica, arial, sans-serif; text-align: left; font-weight: lighter; line-height: 160%; color: #ffffff; padding-right: 15%;}
+.spokesman img{width: 100%; height: auto; max-width: 470px; margin: 80px auto -0.7%;}
+.line-green-0{border-top: 5px solid #33d0b4; display: block; margin: 20px 0 10px; width: 16%;}
+
+/*  */
+
 
 /******* ESTILOS RELACIONADOS AL FOOTER *******/
 .pinkfoot{background: #eb4483;}
