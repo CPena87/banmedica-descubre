@@ -267,7 +267,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 34449,
+				"buffer_size": 35130,
 				"line_ending": "Unix"
 			}
 		},
@@ -609,8 +609,8 @@
 						"selection":
 						[
 							[
-								0,
-								16
+								3466,
+								4051
 							]
 						],
 						"settings":
@@ -620,7 +620,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 539.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -630,15 +630,15 @@
 					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 34449,
+						"buffer_size": 35130,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								32537,
-								32537
+								0,
+								0
 							]
 						],
 						"settings":
